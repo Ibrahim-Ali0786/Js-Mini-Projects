@@ -1,2 +1,2 @@
 # introduction
-# this is web game
+# This is a web game
